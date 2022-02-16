@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-writable-property-symbols-in",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Return an array of an object's own and inherited writable symbol properties.",
   "license": "Apache-2.0",
   "author": {
