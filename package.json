@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-writable-property-symbols-in",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Return an array of an object's own and inherited writable symbol properties.",
   "license": "Apache-2.0",
   "author": {
@@ -38,15 +38,15 @@
   },
   "dependencies": {
     "@stdlib/assert-has-own-property": "^0.1.1",
-    "@stdlib/assert-is-writable-property": "^0.1.1",
-    "@stdlib/utils-get-prototype-of": "^0.1.1",
-    "@stdlib/utils-property-symbols": "^0.1.1"
+    "@stdlib/assert-is-writable-property": "^0.2.0",
+    "@stdlib/utils-get-prototype-of": "^0.2.0",
+    "@stdlib/utils-property-symbols": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/assert-has-symbol-support": "^0.1.1",
     "@stdlib/assert-is-array": "^0.1.1",
     "@stdlib/random-base-randu": "^0.1.0",
-    "@stdlib/symbol-ctor": "^0.1.1",
+    "@stdlib/symbol-ctor": "^0.2.0",
     "@stdlib/utils-define-property": "^0.1.1",
     "@stdlib/utils-index-of": "^0.1.0",
     "proxyquire": "^2.0.0",
